@@ -39,10 +39,7 @@ const About = () => {
             <GridContainer>
                 <GridCol start={1} end={8}>
                     <Paragraph width="90%">
-                        Hello, I'm a third year student at Guru Tegh Bahadur Institute of Technology 
-                        affiliated to IP University studying Computer Science and Engineering.
-                        I have experience developing and designing software for the web, 
-                        from simple landing pages to progressive web applications.
+                        Hello, I'm a software engineer specializing in building exceptional digital experience.
                             I strive to create software that not only functions efficiently under
                         the hood, but also provides intuitive, pixel-perfect user experiences.
                         I love learning new and better ways to create seamless user experiences with clean,
@@ -65,13 +62,13 @@ const About = () => {
                         </div>
                         <div style={{ marginLeft: '4rem' }}>
                             <ListItem>
-                                <CyanText><i className="fas fa-caret-right"></i></CyanText> Vue
+                                <CyanText><i className="fas fa-caret-right"></i></CyanText> Spring Boot
                             </ListItem>
                             <ListItem>
-                                <CyanText><i className="fas fa-caret-right"></i></CyanText> Django
+                                <CyanText><i className="fas fa-caret-right"></i></CyanText> MongoDB
                             </ListItem>
                             <ListItem>
-                                <CyanText><i className="fas fa-caret-right"></i></CyanText> Vue
+                                <CyanText><i className="fas fa-caret-right"></i></CyanText> MySQL
                             </ListItem>
                         </div>
                     </List>

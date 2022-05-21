@@ -38,9 +38,8 @@ const Intro = () => {
             <Heading1>Jagmeet Singh.</Heading1>
             <Heading2>I build things for the web.</Heading2>
             <Paragraph width="40%">
-                I'm a Full Stack Web Developer based in New Delhi, currently 
-                pursuing my B.Tech in Computer Science from Guru Tegh Bahadur Institute
-                of technology affiliated to IPU.
+                I'm a software engineer based in New Delhi, currently 
+                working as <CyanText>Trainee software Engineer</CyanText> at <CyanText>HSBC</CyanText> Software Development India.
             </Paragraph>
             <ButtonLink href={process.env.PUBLIC_URL + '/resume.pdf'} target="_blank">Resume</ButtonLink>
         </Wrapper>
